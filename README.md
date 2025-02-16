@@ -1,7 +1,7 @@
 # Meu primeiro projeto Front-end em inspiraçao  de uma pagina do Spotify.
 
 
-## 🔍  A estrutura que foi utilizada para criaçao da pagina web foi
+## 🔍  A estrutura que foi utilizada para criação da pagina web foi
 HTML, CSS e JavaScript
 
 
