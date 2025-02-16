@@ -1,4 +1,4 @@
-# Meu primeiro projeto Front-end em inspiraçao  de uma pagina do Spotify.
+# Meu primeiro projeto Front-end em inspiração  de uma pagina do Spotify.
 
 
 ## 🔍  A estrutura que foi utilizada para criação da pagina web foi
